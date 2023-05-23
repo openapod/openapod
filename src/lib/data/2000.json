@@ -1,6 +1,6 @@
 [
   {
-    "id": "apg4YJlnj2zLQk",
+    "id": "apTUZxX2d1XF2j",
     "date": "2000-06-24",
     "title": "Sunlight Through Saturns Rings",
     "description": "Normally,earth-bound astronomers viewSaturn's spectacular ring systemfully illuminated by reflected sunlight.However,thisintriguing picturewas made to take advantage of anunusual orientation,with the Sun actually illuminating the rings from below.The three brightring featuresare visible because the rings themselves are not solid.Composed of many separate chunks ofrocky, icy material, the ringsallow the scattered sunlight to pass through them --offeringa dramatic demonstration that they are not continuous,uninterrupted bands of material.Thepicture is a false-color composite based on HubbleSpace Telescope images recorded in November of 1995.",
@@ -15,6 +15,369 @@
       { "title": "Cornell", "url": "http://www.cornell.edu" },
       { "title": "Univ. Arizona", "url": "http://www.arizona.edu" },
       { "title": "NASA", "url": "http://www.nasa.gov" }
+    ]
+  },
+  {
+    "id": "ap1KghEv1gDoLD",
+    "date": "2000-06-25",
+    "title": "Shapley 1: An Annular Planetary Nebula",
+    "description": "What happens when a star runs out of nuclear fuel?The center condenses into a white dwarf while the outer atmospheric layers are expelled into space and appear as a planetary nebula.This particular planetary nebula, designated Shapley 1 after the famous astronomer Harlow Shapley, has a very apparent annular ring like structure. Although some of these nebulae appear like planets on the sky (hence their name), they actually surround stars far outside our Solar System.",
+    "description_html": "What happens when a star runs out of <a href='https://apod.nasa.gov/apod/http://fusedweb.pppl.gov/default.html'>nuclear fuel</a>? The center condenses into a <a href='https://apod.nasa.gov/apod/ap971102.html'>white dwarf</a> while the outer atmospheric layers are expelled into space and appear as a <a href='https://apod.nasa.gov/apod/planetary_nebulae.html'>planetary nebula</a>. This particular <a href='https://apod.nasa.gov/apod/http://www.noao.edu/jacoby/pn_gallery.html'>planetary nebula</a>, designated <a href='https://apod.nasa.gov/apod/http://www.aao.gov.au/images/captions/aat095.html'>Shapley 1</a> after the famous astronomer <a href='https://apod.nasa.gov/apod/http://antwrp.gsfc.nasa.gov/diamond_jubilee/debate_1920.html'>Harlow Shapley</a>, has a very apparent annular ring like structure. Although some of these nebulae appear like planets on the sky (hence their name), they actually surround stars far outside <a href='https://apod.nasa.gov/apod/ap990505.html'>our Solar System</a>.",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-06-25/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-06-25/standard.jpg",
+      "hd_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-06-25/hd.jpg"
+    },
+    "credits": [
+      { "title": "AAO", "url": "http://www.aao.gov.au/" },
+      { "title": "AATB", "url": "http://www.aao.gov.au/local/www/dfm/rights.html" }
+    ]
+  },
+  {
+    "id": "apKOySBVL1XagT",
+    "date": "2000-06-26",
+    "title": "Newton Crater: Evidence for Recent Water on Mars",
+    "description": "What could have formed these unusual channels?  Inside a small crater that lies inside large Newton Crater on Mars, numerous narrow channels run from the top down to the crater floor.  The above picture covers a region spanning about 3000 meters across.  These and other gullies have been found on Mars in recent high-resolution pictures taken by the orbiting Mars Global Surveyor robot spacecraft.  Similar channels on Earth are formed by flowing water, but on Mars the temperature is normally too cold and the atmosphere too thin to sustain liquid water.  Nevertheless, many scientists now hypothesize that liquid water did burst out here from underground Mars, eroded the gullies, and pooled at the bottom as it froze and evaporated.  If so, life-sustaining ice and water might exist even today below the Martian surface -- water that could potentially support a human mission to Mars. Research into this exciting possibility is sure to continue!",
+    "description_html": "What could have formed these unusual channels? Inside a small <a href='https://apod.nasa.gov/apod/http://www.jpl.nasa.gov/galileo/sepo/education/plansurf/plansurfii.html'>crater</a> that lies inside large <a href='https://apod.nasa.gov/apod/http://ic.arc.nasa.gov/ic/projects/bayes-group/Atlas/Mars/features/n/newton.html'>Newton Crater</a> on <a href='https://apod.nasa.gov/apod/http://www.seds.org/nineplanets/nineplanets/mars.html'>Mars</a>, numerous narrow channels run from the top down to the crater floor. The <a href='https://apod.nasa.gov/apod/http://www.msss.com/mars_images/moc/june2000/newton/index.html'>above picture</a> covers a region spanning about 3000 meters across. These and other <a href='https://apod.nasa.gov/apod/ap000623.html'>gullies</a> have been found on Mars in <a href='https://apod.nasa.gov/apod/http://www.msss.com/mars_images/moc/june2000/index.html'>recent high-resolution pictures</a> taken by the orbiting <a href='https://apod.nasa.gov/apod/http://mars.jpl.nasa.gov/mgs/overvu/overview.html'>Mars Global Surveyor</a> robot spacecraft. <a href='https://apod.nasa.gov/apod/http://www.msss.com/mars_images/moc/june2000/labeled/index.html'>Similar channels on Earth</a> are formed by flowing water, but on Mars the temperature is normally too cold and the <a href='https://apod.nasa.gov/apod/http://windows.ivv.nasa.gov/cgi-bin/tour_def/mars/lower_atmosphere.html'>atmosphere</a> too thin to sustain <a href='https://apod.nasa.gov/apod/http://www.es.mq.edu.au/courses/GEOS112/mod2/worsho/06/6_2.html'>liquid water</a>. Nevertheless, many scientists now hypothesize that liquid water did burst out here from underground <a href='https://apod.nasa.gov/apod/mars.html'>Mars</a>, eroded the gullies, and pooled at the bottom as it froze and evaporated. If so, life-sustaining <a href='https://apod.nasa.gov/apod/ap980530.html'>ice and water</a> might exist even today below the <a href='https://apod.nasa.gov/apod/ap000514.html'>Martian surface</a> -- water that could potentially support a <a href='https://apod.nasa.gov/apod/http://www-sn.jsc.nasa.gov/marsref/contents.html'>human mission to Mars</a>. <a href='https://apod.nasa.gov/apod/http://www.sciencemag.org/feature/data/hottopics/index.html'>Research into this exciting possibility</a> is sure to continue!",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-06-26/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-06-26/standard.jpg",
+      "hd_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-06-26/hd.jpg"
+    },
+    "credits": [
+      { "title": "Malin Space Science Systems", "url": "http://www.msss.com/" },
+      { "title": "MGS", "url": "http://mars.jpl.nasa.gov/mgs/" },
+      { "title": "JPL", "url": "http://www.jpl.nasa.gov/" },
+      { "title": "NASA", "url": "http://www.nasa.gov/" }
+    ]
+  },
+  {
+    "id": "apdvZ2798RUMcp",
+    "date": "2000-06-27",
+    "title": "M63: The Sunflower Galaxy",
+    "description": "One of the bright spiral galaxies visible in the north sky is M63, theSunflower Galaxy.  M63, also catalogued as NGC 5055, can be found with a small telescope in the constellation of Canes Venaciti.  Visible in the above picture are long windingspiral arms glowing blue from a few bright young stars, emission nebulae glowing red from hot ionized hydrogen gas, and dark dust in numerous filaments.  M63 interacts gravitationally with M51 (the Whirlpool Galaxy) and several smaller galaxies.  Light takes about 35 million years to reach us from M63, and about 60,000 years to cross the Sb-type spiral galaxy.  Stars in the outer regions of the Sunflower Galaxy rotate about the center at a speed so high they should fly off into space, indicating that some sort of invisible, gravitationally-binding, dark matter is present.",
+    "description_html": "One of the bright <a href='https://apod.nasa.gov/apod/http://www.seds.org/messier/spir.html'>spiral galaxies</a> visible in the north sky is M63, the <a href='https://apod.nasa.gov/apod/http://www.prairielinks.com/sunfindex.html'>Sunflower</a> Galaxy. M63, also catalogued as NGC 5055, can be found with a small telescope in the <a href='https://apod.nasa.gov/apod/http://www.dibonsmith.com/constel.htm'>constellation</a> of <a href='https://apod.nasa.gov/apod/http://www.dibonsmith.com/cvn_con.htm'>Canes Venaciti</a>. Visible in the <a href='https://apod.nasa.gov/apod/http://www.subaru.naoj.org/Latestnews/200006/SpC/index.html'>above picture</a> are long winding <a href='https://apod.nasa.gov/apod/http://csep10.phys.utk.edu/astr162/lect/milkyway/arms.html'>spiral arms</a> glowing blue from a few bright young stars, <a href='https://apod.nasa.gov/apod/emission_nebulae.html'>emission nebulae</a> glowing red from hot ionized <a href='https://apod.nasa.gov/apod/http://pearl1.lanl.gov/periodic/elements/1.html'>hydrogen</a> gas, and dark <a href='https://apod.nasa.gov/apod/ap990509.html'>dust</a> in numerous filaments. <a href='https://apod.nasa.gov/apod/http://www.seds.org/messier/m/m063.html'>M63</a> interacts gravitationally with <a href='https://apod.nasa.gov/apod/ap970125.html'>M51</a> (the Whirlpool Galaxy) and <a href='https://apod.nasa.gov/apod/http://www.seds.org/messier/more/m051gr.html'>several smaller galaxies</a>. Light takes about 35 million years to reach us from <a href='https://apod.nasa.gov/apod/http://www.astr.ua.edu/gifimages/m63r.html'>M63</a>, and about 60,000 years to cross the <a href='https://apod.nasa.gov/apod/http://zebu.uoregon.edu/~js/ast123/lectures/lec13.html'>Sb-type</a> spiral galaxy. Stars in the outer regions of the <a href='https://apod.nasa.gov/apod/http://astro.physics.macalester.edu/courses/Phys20/BD+MW/Brooke.htm'>Sunflower Galaxy</a> rotate about the center at a <a href='https://apod.nasa.gov/apod/http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1995AJ....109..140P'>speed so high</a> they should fly off into space, indicating that some sort of invisible, gravitationally-binding, <a href='https://apod.nasa.gov/apod/http://cfpa.berkeley.edu/darkmat/dm.html'>dark matter</a> is present.",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-06-27/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-06-27/standard.jpg",
+      "hd_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-06-27/hd.jpg"
+    },
+    "credits": [
+      { "title": "NAOJ", "url": "http://www.nao.ac.jp/" },
+      {
+        "title": "Suprime-Cam",
+        "url": "http://SubaruTelescope.org/Observing/Instruments/SCam/index.html"
+      },
+      { "title": "Subaru Telescope", "url": "http://SubaruTelescope.org/" },
+      { "title": "NOAJ", "url": "http://www.nao.ac.jp/" }
+    ]
+  },
+  {
+    "id": "ap3regGOrQ0e2i",
+    "date": "2000-06-28",
+    "title": "BATSE GRB Final Sky Map",
+    "description": "What causes the most powerful explosions in the universe?  The BATSE modules that flew on the Compton Gamma Ray Observatory allowed more insight into enigmatic gamma-ray burst (GRB) explosions than ever before.  From 1991-2000, BATSE detected 2704 GRBs, much more than ever previously recorded.  The above final sky map of GRB locations (and fluence) shows them to occur at random locations on the sky - strong evidence that GRBs occur across our universe and not in sky bands indicative of our Solar System or our Galaxy.  As with any successful mission, answers create more questions, and astronomers continue to puzzle over what object creates a GRB, and what happens in the initial stages of the explosion.  BATSE's legacy includes recording 1190 gamma-ray flares from the Sun and the discovery of Terrestrial Gamma Flashes, unusual bursts of gamma rays that emanate from the Earth itself.  To protect people from an uncontrolled re-entry, Compton was recently crashed into the Pacific Ocean.",
+    "description_html": "What causes the most powerful explosions in the universe? The <a href='https://apod.nasa.gov/apod/http://gammaray.msfc.nasa.gov/batse/'>BATSE</a> modules that flew on the <a href='https://apod.nasa.gov/apod/http://cossc.gsfc.nasa.gov/cgro/index.html'>Compton Gamma Ray Observatory</a> allowed more insight into enigmatic <a href='https://apod.nasa.gov/apod/http://www.sciam.com/0797issue/0797fishman.html'>gamma-ray burst</a> (GRB) explosions than ever before. From 1991-2000, BATSE detected 2704 GRBs, much more than ever previously recorded. The <a href='https://apod.nasa.gov/apod/http://gammaray.msfc.nasa.gov/batse/grb/skymap/'>above final sky map</a> of GRB locations (and <a href='https://apod.nasa.gov/apod/http://science.nasa.gov/newhome/headlines/ast21oct99_1.htm'>fluence</a>) shows them to occur at random locations on the sky - strong <a href='https://apod.nasa.gov/apod/http://antwrp.gsfc.nasa.gov/debate/debate95.html'>evidence</a> that <a href='https://apod.nasa.gov/apod/http://science.msfc.nasa.gov/newhome/help/tutorials/batse/chapter4.htm'>GRBs</a> occur across our universe and not in sky bands indicative of our <a href='https://apod.nasa.gov/apod/ap990529.html'>Solar System</a> or our <a href='https://apod.nasa.gov/apod/ap980321.html'>Galaxy</a>. As with any successful mission, answers create more questions, and astronomers continue to puzzle over what object creates a <a href='https://apod.nasa.gov/apod/http://glast.gsfc.nasa.gov/GSD/sec06.html'>GRB</a>, and what happens in the initial stages of the explosion. <a href='https://apod.nasa.gov/apod/http://www.batse.com/'>BATSE</a>'s legacy includes <a href='https://apod.nasa.gov/apod/http://umbra.nascom.nasa.gov/batse/batse_years.html'>recording</a> 1190 <a href='https://apod.nasa.gov/apod/http://hesperia.gsfc.nasa.gov/sftheory/'>gamma-ray flares from the Sun</a> and the discovery of <a href='https://apod.nasa.gov/apod/http://gammaray.msfc.nasa.gov/batse/tgf/'>Terrestrial Gamma Flashes</a>, unusual bursts of <a href='https://apod.nasa.gov/apod/ap000324.html'>gamma rays</a> that emanate from the <a href='https://apod.nasa.gov/apod/ap990131.html'>Earth</a> itself. To protect people from an uncontrolled re-entry, <a href='https://apod.nasa.gov/apod/ap000116.html'>Compton</a> was <a href='https://apod.nasa.gov/apod/ap000603.html'>recently crashed</a> into the <a href='https://apod.nasa.gov/apod/http://www.odci.gov/cia/publications/factbook/zn.html'>Pacific Ocean</a>.",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-06-28/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-06-28/standard.jpg",
+      "hd_url": null
+    },
+    "credits": [
+      { "title": "G. Fishman", "url": "mailto:Jerry.Fishman@msfc.nasa.gov" },
+      { "title": "BATSE", "url": "http://gammaray.msfc.nasa.gov/batse/" },
+      { "title": "CGRO", "url": "http://cossc.gsfc.nasa.gov/" },
+      { "title": "NASA", "url": "http://www.nasa.gov" }
+    ]
+  },
+  {
+    "id": "apeRSwkAMKQbhq",
+    "date": "2000-06-29",
+    "title": "Galactic Centre Starscape",
+    "description": "Thirty thousand light-years distant,beyond themajestic dust clouds of the constellationSagittarius, lies the centre of our Milky Way Galaxy.Hidden from optical view by the dust, theGalactic Centre region isa relatively unexplored starscape.Butinfrared light can more easilypenetrate the dust andthis recently releasedInfrared Space Observatory(ISO)mosaic, together with other similar images, shows about 100,000 previouslyunseen stars of the Milky Way's central regions.Huge obscuring dust clouds still seem to crowd the areaespecially in the left part of the infrared picture.Marked by the white circle, the centre itself is missing from the mosaicbecause it is so bright that it would saturate ISO's sensitive camera.The starsare mostly evolvedred giants, intrinsically cool,large, bright stars that have swollen after exhausting their central supplyof hydrogen fuel.The detailed properties of theredgiant stars can bevery revealingas these stars contribute to the interstellargas and dust clouds, enriching their galactic environment withcarbon andother elements.Their motions also trace the mass distribution in the Galactic Centre andmay support the idea that our Galaxy grew byswallowing smaller, nearby galaxies.",
+    "description_html": "Thirty thousand light-years distant, beyond the <a href='https://apod.nasa.gov/apod/ap960605.html'>majestic dust clouds</a> of the constellation Sagittarius, lies the centre of our Milky Way Galaxy. Hidden from optical view by the dust, the <a href='https://apod.nasa.gov/apod/ap990911.html'>Galactic Centre</a> region is a relatively <a href='https://apod.nasa.gov/apod/ap000422.html'>unexplored</a> starscape. But <a href='https://apod.nasa.gov/apod/http://www.ipac.caltech.edu/Outreach/Edu/ univ_index.html'>infrared</a> light can more easily penetrate the dust and <a href='https://apod.nasa.gov/apod/http://www.iso.vilspa.esa.es/science/galleries/ism/ isogalgc.htm'>this recently released</a> Infrared Space Observatory (<a href='https://apod.nasa.gov/apod/http://www.ipac.caltech.edu/iso/iso.html'>ISO</a>) mosaic, together with other similar images, shows about 100,000 previously unseen stars of the Milky Way's central regions. Huge obscuring dust clouds still seem to crowd the area especially in the left part of the infrared picture. Marked by the white circle, the centre itself is missing from the mosaic because it is so bright that it would saturate ISO's sensitive camera. The <a href='https://apod.nasa.gov/apod/http://mrcohen1.keel.physics.ship.edu/108/evol.htm'>stars</a> are mostly evolved <a href='https://apod.nasa.gov/apod/http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/ 971016.html'>red giants</a>, intrinsically cool, large, bright stars that have swollen after exhausting their central supply of hydrogen fuel. The detailed properties of the <a href='https://apod.nasa.gov/apod/http://aibn47.astro.uni-bonn.de/~gallery/color.html'>red</a> giant stars can be <a href='https://apod.nasa.gov/apod/http://sci.esa.int/content/news/ index.cfm?aid=18&amp;cid=599&amp;oid=20040'>very revealing</a> as these stars contribute to the interstellar gas and dust clouds, enriching their galactic environment with <a href='https://apod.nasa.gov/apod/ap981218.html'>carbon</a> and other elements. Their motions also trace the mass distribution in the Galactic Centre and may support the idea that our Galaxy grew by <a href='https://apod.nasa.gov/apod/ap980216.html'>swallowing smaller</a>, nearby galaxies.",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-06-29/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-06-29/standard.jpg",
+      "hd_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-06-29/hd.jpg"
+    },
+    "credits": [
+      { "title": "ESA", "url": "http://www.esrin.esa.it/" },
+      { "title": "ISO", "url": "http://isowww.estec.esa.nl/" },
+      { "title": "PRL", "url": "http://www.prl.ernet.in/astronomy/" },
+      { "title": "IAP", "url": "http://www.iap.fr/" },
+      { "title": "ISOGAL Team", "url": "http://www-isogal.iap.fr/" }
+    ]
+  },
+  {
+    "id": "apELJTksPdV2mw",
+    "date": "2000-06-30",
+    "title": "Vintage Gamma Rays",
+    "description": "Gamma-rays are the most energetic form ofelectromagnetic radiation.But these high energy photons penetrate and interact in normal materialsand cannot be focused by lenses andmirrors like those in optical telescopes.So how do you make an image ingamma-ray light?One way is to use a patterned mask of material which cancast gamma-rayshadowson a digital detector array.The mask is called acodedaperture and the resulting shadow patterns can be used toconstruct a gamma-ray image of the source.For example, considerthe picture above.In place of acoded mask,familiar objects were positioned in front of a detector arrayand illuminated with gamma-rays in a laboratory test.Do you recognizethe shadow image?(Click on the picture for the focused visible light image.)Destined to fly on theInternational Gamma-Ray Astrophysics Laboratory(INTEGRAL) satellitescheduled for launch in 2002, the detector array will be part ofthe imaging gamma-ray telescope,IBIS.",
+    "description_html": "<a href='https://apod.nasa.gov/apod/http://imagine.gsfc.nasa.gov/docs/science/know_l2/ history_gamma.html'>Gamma-rays</a> are the most energetic form of <a href='https://apod.nasa.gov/apod/http://imagine.gsfc.nasa.gov/docs/science/know_l1/ emspectrum.html'>electromagnetic radiation</a>. But these high energy photons penetrate and interact in normal materials and cannot be focused by lenses and mirrors like those in optical telescopes. So how do you make an image in <a href='https://apod.nasa.gov/apod/http://imagine.gsfc.nasa.gov/docs/science/how_l1/ gamma_detectors.html'>gamma-ray light</a>? One way is to use a patterned mask of material which can cast gamma-ray <a href='https://apod.nasa.gov/apod/http://home.iae.nl/users/ferdv/shadow.htm'>shadows</a> on a digital detector array. The mask is called a <a href='https://apod.nasa.gov/apod/http://lheawww.gsfc.nasa.gov/docs/cai/coded.html'>coded aperture</a> and the resulting shadow patterns can be used to construct a gamma-ray image of the source. For example, consider <a href='https://apod.nasa.gov/apod/http://heasarc.gsfc.nasa.gov/docs/objects/heapow/archive/ technology/isgri_first_image.html'>the picture above</a>. In place of a <a href='https://apod.nasa.gov/apod/http://swift.sonoma.edu/instruments/bat.html'>coded mask</a>, familiar objects were positioned in front of a detector array and illuminated with gamma-rays in a laboratory test. Do you recognize <a href='https://apod.nasa.gov/apod/http://www.shadowradio.org/'>the shadow</a> image? (Click on the picture for the focused visible light image.) Destined to fly on the <a href='https://apod.nasa.gov/apod/http://astro.estec.esa.nl/SA-general/Projects/Integral/ integral.html'>International Gamma-Ray Astrophysics Laboratory</a> (<a href='https://apod.nasa.gov/apod/http://heasarc.gsfc.nasa.gov/docs/integral/ integralgof.html'>INTEGRAL</a>) satellite scheduled for launch in 2002, the detector array will be part of the imaging gamma-ray telescope, <a href='https://apod.nasa.gov/apod/http://astro.estec.esa.nl/SA-general/Projects/Integral/ integ_payload_imager.html'>IBIS</a>.",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-06-30/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-06-30/standard.jpg",
+      "hd_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-06-30/hd.jpg"
+    },
+    "credits": [
+      { "title": "ESA", "url": "http://www.estec.esa.nl/" },
+      { "title": "IAS", "url": "http://www.ias.rm.cnr.it/" },
+      { "title": "CEA-SACLAY", "url": "http://www.cea.fr/" }
+    ]
+  },
+  {
+    "id": "apj4VqrKTZXMEf",
+    "date": "2000-07-01",
+    "title": "Ultraviolet Earth from the Moon",
+    "description": "Here's a switch: the above picture is of the  Earth  taken from a  lunar  observatory! This false color picture shows how the Earth glows in ultraviolet (UV) light. UV light is so blue humans can't see it.Very little UV light is transmitted through the Earth's atmosphere but what sunlight does make it through can cause a sunburn. The Far UV Camera / Spectrograph deployed and left on the Moon by the crew of Apollo 16 tookthe above picture.  The part of the Earth facing the Sun reflects much UV light, but perhaps more interesting is the side facing away from the Sun. Here bands of UV emission are also apparent.  These bands are the result ofaurorae and are caused by charged particles expelled by the Sun.",
+    "description_html": "Here's a switch: the above picture is of the <i> Earth </i> taken from a <a href='https://apod.nasa.gov/apod/ap960608.html'><i> lunar </i> observatory!</a> This <a href='https://apod.nasa.gov/apod/http://images.jsc.nasa.gov/images/pao/AS16/10075878.htm'>false color picture</a> shows how the <a href='https://apod.nasa.gov/apod/earth.html'>Earth</a> glows in <a href='https://apod.nasa.gov/apod/lib/glossary.html#uv'>ultraviolet</a> (UV) light. UV light is so blue humans can't see it. Very little <a href='https://apod.nasa.gov/apod/http://titan.srrb.noaa.gov/UV/'>UV light</a> is transmitted through the Earth's atmosphere but what sunlight does make it through can cause a <a href='https://apod.nasa.gov/apod/http://uhs.bsd.uchicago.edu/uhs/infoline/sunburn.htm'>sunburn</a>. The <a href='https://apod.nasa.gov/apod/http://cass.jsc.nasa.gov/pub/expmoon/Apollo16/A16_Experiments_UVC.html'>Far UV Camera / Spectrograph</a> deployed and left on the Moon by the crew of <a href='https://apod.nasa.gov/apod/ap000319.html'>Apollo 16</a> took the above picture. The part of the Earth facing the <a href='https://apod.nasa.gov/apod/sun.html'>Sun</a> reflects much UV light, but perhaps more interesting is the side facing away from the Sun. Here bands of <a href='https://apod.nasa.gov/apod/http://imagine.gsfc.nasa.gov/docs/science/know_l2/emspectrum.html'>UV emission</a> are also apparent. These <a href='https://apod.nasa.gov/apod/ap970402.html'>bands</a> are the result of <a href='https://apod.nasa.gov/apod/http://antwrp.gsfc.nasa.gov/cgi-bin/apod/apod_ts?aurora'>aurorae</a> and are caused by <a href='https://apod.nasa.gov/apod/http://www-spof.gsfc.nasa.gov/Education/Intro.html'>charged particles</a> expelled by the Sun.",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-01/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-01/standard.jpg",
+      "hd_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-01/hd.jpg"
+    },
+    "credits": [
+      { "title": "G. Carruthers", "url": "mailto:gcarruthers@ssd2.nrl.navy.mil" },
+      { "title": "NRL", "url": "http://www.nrl.navy.mil/" },
+      {
+        "title": "Far UV Camera",
+        "url": "http://cass.jsc.nasa.gov/pub/expmoon/Apollo16/A16_Experiments_UVC.html"
+      },
+      {
+        "title": "Apollo 16",
+        "url": "http://www.ksc.nasa.gov/history/apollo/apollo-16/apollo-16.html"
+      },
+      { "title": "NASA", "url": "http://www.nasa.gov/" }
+    ]
+  },
+  {
+    "id": "apLOxrUmYzKZ1X",
+    "date": "2000-07-02",
+    "title": "Gamma Ray Burst: A Milestone Explosion",
+    "description": "Gamma-Ray Bursts (GRBs)were discovered by accident.Thirty three years ago today, satellitesfirst recorded a GRB.The data plotted here show thatthe count rate of the satellite gamma-ray instrumentabruptly jumped indicating a suddenflash of gamma-rays.The Velasatellitesthat detected this and other GRBs weredeveloped to test technology to monitornucleartest ban treaties.With on board sensors theywatched for briefx-ray andgamma-ray flashes, the telltale signatures ofnuclear explosions.As intended, the Velasfound flashes of gamma-rays - but notfrom nuclear detonations near Earth.Instead, the flashes were determined to come from deep space!Dubbed 'cosmic gamma-ray bursts'they are now known to be the most powerful explosionsoriginating in distant galaxies.What could power a gamma-ray burst?",
+    "description_html": "Gamma-Ray Bursts (GRBs) <a href='https://apod.nasa.gov/apod/http://antwrp.gsfc.nasa.gov/htmltest/jbonnell/www/grbhist.html'>were discovered</a> by accident. Thirty three years ago today, satellites <a href='https://apod.nasa.gov/apod/http://antwrp.gsfc.nasa.gov/htmltest/ jbonnell/www/grbhist.html#firstburst'>first recorded a GRB</a>. The data plotted here show that the count rate of the satellite gamma-ray instrument <a href='https://apod.nasa.gov/apod/ap991104.html'>abruptly jumped</a> indicating a sudden flash of gamma-rays. The <a href='https://apod.nasa.gov/apod/http://leonardo.jpl.nasa.gov/msl/QuickLooks/velaQL.html'>Vela satellites</a> that detected this and other GRBs were developed to test technology to monitor <a href='https://apod.nasa.gov/apod/http://www.state.gov/www/global/arms/treaties/ltbt1.html'>nuclear test ban treaties</a>. With on board sensors they <a href='https://apod.nasa.gov/apod/ap951105.html'>watched</a> for brief <a href='https://apod.nasa.gov/apod/http://imagine.gsfc.nasa.gov/docs/science/know_l2/ history_xray.html'>x-ray</a> and <a href='https://apod.nasa.gov/apod/http://imagine.gsfc.nasa.gov/docs/science/know_l2/ history_gamma.html'>gamma-ray</a> flashes, the telltale signatures of <a href='https://apod.nasa.gov/apod/http://www.em.doe.gov/timeline/'>nuclear</a> explosions. As intended, the Velas found flashes of gamma-rays - but not from nuclear detonations near Earth. Instead, the flashes were determined to come from deep space! Dubbed <a href='https://apod.nasa.gov/apod/ap961123.html'>'cosmic gamma-ray bursts'</a> they are <a href='https://apod.nasa.gov/apod/http://antwrp.gsfc.nasa.gov/diamond_jubilee/ debate_1995.html'>now known</a> to be the most powerful explosions originating in distant galaxies. What could power a <a href='https://apod.nasa.gov/apod/http://www.sciam.com/0797issue/ 0797fishman.html'>gamma-ray burst</a>?",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-02/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-02/standard.jpg",
+      "hd_url": null
+    },
+    "credits": [
+      { "title": "LANL", "url": "http://www.lanl.gov/external/index.html" },
+      {
+        "title": "Vela Project",
+        "url": "http://heasarc.gsfc.nasa.gov/docs/heasarc/missions/vela5a.html"
+      }
+    ]
+  },
+  {
+    "id": "apRO7wAzGatj6k",
+    "date": "2000-07-03",
+    "title": "Pelican Nebula Ionization Front",
+    "description": "The Pelican Nebula is slowly being transformed.  IC 5070, the official designation, is divided from the larger North America Nebula by a molecular cloud filled with dark dust.  The Pelican, however, receives much study because it is a particularly active mix of star formation and evolving gas clouds.  The above picture was produced in two specific colors to better understand these interactions.  Here, hot hydrogen gas glows in red, while cooler Sulfur glows blue-green.  The light from young energetic stars is slowly transforming the cold gas to hot gas, with the advancing boundary between the two known as an ionization front.  Particularly dense filaments of cold gas are seen to still remain.  Millions of years from now this nebula might no longer be known as the Pelican, as the balance and placement of stars and gas will leave something that appears completely different.",
+    "description_html": "The Pelican Nebula is slowly being transformed. IC 5070, the official designation, is divided from the larger <a href='https://apod.nasa.gov/apod/ap000501.html'>North America Nebula</a> by a <a href='https://apod.nasa.gov/apod/ap990511.html'>molecular cloud</a> filled with dark <a href='https://apod.nasa.gov/apod/lib/glossary.html#dust'>dust</a>. The <a href='https://apod.nasa.gov/apod/http://www.usit.com/mccubbin/Pelican.html'>Pelican</a>, however, receives much study because it is a particularly active mix of <a href='https://apod.nasa.gov/apod/ap990502.html'>star formation</a> and evolving gas clouds. The <a href='https://apod.nasa.gov/apod/http://www.noao.edu/image_gallery/html/im0555.html'>above picture</a> was produced in two specific colors to better understand these interactions. Here, hot <a href='https://apod.nasa.gov/apod/http://chemlab.pc.maricopa.edu/periodic/h.html'>hydrogen</a> gas glows in red, while cooler <a href='https://apod.nasa.gov/apod/http://chemlab.pc.maricopa.edu/periodic/S.html'>Sulfur</a> glows blue-green. The light from young energetic stars is slowly transforming the cold gas to hot gas, with the <a href='https://apod.nasa.gov/apod/ap981118.html'>advancing boundary</a> between the two known as an <a href='https://apod.nasa.gov/apod/http://csep10.phys.utk.edu/astr162/lect/light/ionization.html'>ionization</a> front. Particularly dense filaments of cold gas are seen to still remain. Millions of years from now this nebula might no longer be known as the <a href='https://apod.nasa.gov/apod/http://www.phillyzoo.org/pz0012.htm'>Pelican</a>, as the <a href='https://apod.nasa.gov/apod/http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1980ApJ...239..121B'>balance and placement of stars and gas</a> will leave something that appears completely different.",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-03/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-03/standard.jpg",
+      "hd_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-03/hd.jpg"
+    },
+    "credits": [
+      { "title": "John Bally", "url": "mailto:bally@casa.colorado.edu" },
+      { "title": "U. Colorado", "url": "http://casa.colorado.edu/" },
+      { "title": "KPNO 0.9-m Telescope", "url": "http://www.noao.edu/dir/09m/description.html" },
+      { "title": "NOAO", "url": "http://www.noao.edu/" },
+      { "title": "AURA", "url": "http://www.aura-astronomy.org/" },
+      { "title": "NSF", "url": "http://www.nsf.gov/" }
+    ]
+  },
+  {
+    "id": "apWi0pWybHENtc",
+    "date": "2000-07-04",
+    "title": "Comet LINEAR Approaches",
+    "description": "Just possibly, a new comet may become bright enough to see without binoculars later this month.  Comet C/1999 S4 LINEAR is rapidly approaching both the Earth and the Sun from the outer Solar System, and should be at its brightest around 2000 July 25 in the early evening sky of northern observers.  The comet was discovered by chance by project LINEAR last September.  The above time-lapse sequence of Comet LINEAR was taken on 2000 July 2 from Arizona and shows the comet's movement over only 19 minutes.Although Comet LINEAR's positions will be known quite accurately, the comet's future brightness and tail length can only be guessed, and it is quite possible that neither will become very impressive.",
+    "description_html": "Just possibly, a new <a href='https://apod.nasa.gov/apod/http://www.seds.org/nineplanets/nineplanets/comets.html'>comet</a> may become bright enough to see without binoculars later this month. <a href='https://apod.nasa.gov/apod/http://www.skypub.com/sights/comets/0007linearS4.html'>Comet C/1999 S4 LINEAR</a> is rapidly approaching both the <a href='https://apod.nasa.gov/apod/earth.html'>Earth</a> and the <a href='https://apod.nasa.gov/apod/ap000522.html'>Sun</a> from the outer <a href='https://apod.nasa.gov/apod/http://www.exploratorium.edu/ronh/solar_system/'>Solar System</a>, and should be at its brightest around 2000 July 25 in the early evening sky of northern observers. The <a href='https://apod.nasa.gov/apod/http://www.swisr.org/newcomet.html'>comet was discovered</a> by chance by <a href='https://apod.nasa.gov/apod/http://www.ll.mit.edu/LINEAR/'>project LINEAR</a> last September. The <a href='https://apod.nasa.gov/apod/http://www.astrophotographer.com/C1999-S4_1Jul2000.html'>above time-lapse sequence</a> of <a href='https://apod.nasa.gov/apod/http://encke.jpl.nasa.gov/whats_visible.html#1999S4'>Comet LINEAR</a> was taken on 2000 July 2 from <a href='https://apod.nasa.gov/apod/http://www.state.az.us/'>Arizona</a> and shows the comet's movement over only 19 minutes. Although <a href='https://apod.nasa.gov/apod/http://cfa-www.harvard.edu/iau/Ephemerides/Comets/1999S4.html'>Comet LINEAR</a>'s positions will be known quite accurately, the comet's future brightness and <a href='https://apod.nasa.gov/apod/ap000413.html'>tail</a> length can only be guessed, and it is quite possible that neither will become very impressive.",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-04/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-04/standard.jpg",
+      "hd_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-04/hd.jpg"
+    },
+    "credits": [{ "title": "Wil Milan", "url": "mailto:wmilan@airdigital.com" }]
+  },
+  {
+    "id": "aplJmeBNFIohVd",
+    "date": "2000-07-05",
+    "title": "The Galactic Center Across the Infrared",
+    "description": "The center of our Galaxy is obscured in visible light by dark dust that rotates with the stars in the Galactic Plane.  In this century, however, sensors have been developed that can detect light more red that humans can see - light called infrared.  The above picture shows what the Galactic Center looks like in three increasingly red bands of near-infrared light.  The picture results from a digital combination of data recently taken by the 2MASS and MSX Galactic surveys.  In near-infrared light (shown in blue) the dust is less opaque and many previously shrouded red giant stars become visible.  In the mid-infrared (shown in red) the dust itself glows brightly, but allows us a view very close to our tumultuous and mysterious Galactic Center.",
+    "description_html": "The center of our Galaxy is obscured in visible light by dark dust that rotates with the stars in the <a href='https://apod.nasa.gov/apod/ap990224.html'>Galactic Plane</a>. In this century, however, <a href='https://apod.nasa.gov/apod/http://www.ipac.caltech.edu/Outreach/Edu/discovery.html'>sensors have been developed</a> that can detect light more red that <a href='https://apod.nasa.gov/apod/http://www.npac.syr.edu/projects/vishuman/VisibleHuman.html'>humans</a> can see - light called <a href='https://apod.nasa.gov/apod/http://www.ipac.caltech.edu/Outreach/Edu/infrared.html'>infrared</a>. The <a href='https://apod.nasa.gov/apod/http://www.ipac.caltech.edu/2mass/gallery/2mass_msx_gc.html'>above picture</a> shows what the <a href='https://apod.nasa.gov/apod/ap000629.html'>Galactic Center</a> looks like in three increasingly red bands of <a href='https://apod.nasa.gov/apod/http://dept.physics.upenn.edu/~inr/astronews/infrared.html'>near-infrared</a> light. The picture results from a digital combination of data recently taken by the <a href='https://apod.nasa.gov/apod/http://www.ipac.caltech.edu/2mass/gallery/2mass_msx_gc.html'>2MASS</a> and <a href='https://apod.nasa.gov/apod/http://www.ipac.caltech.edu/ipac/msx/msx.html'>MSX</a> Galactic surveys. In near-<a href='https://apod.nasa.gov/apod/http://www.scimedia.com/chem-ed/light/em-spec.htm'>infrared</a> light (shown in blue) the <a href='https://apod.nasa.gov/apod/http://nedwww.ipac.caltech.edu/level5/Mathis/Mathis_contents.html'>dust</a> is less opaque and many previously shrouded <a href='https://apod.nasa.gov/apod/http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/971016.html'>red giant</a> stars become visible. In the mid-infrared (shown in red) the <a href='https://apod.nasa.gov/apod/ap990509.html'>dust</a> itself glows brightly, but allows us a view very close to our tumultuous and mysterious <a href='https://apod.nasa.gov/apod/ap990621.html'>Galactic Center</a>.",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-05/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-05/standard.jpg",
+      "hd_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-05/hd.jpg"
+    },
+    "credits": [
+      { "title": "2MASS Project", "url": "http://www.ipac.caltech.edu/2mass/" },
+      { "title": "Umass", "url": "http://pegasus.astro.umass.edu/GradProg/2mass.html" },
+      { "title": "IPAC/Caltech", "url": "http://www.ipac.caltech.edu/" },
+      { "title": "NSF", "url": "http://www.nsf.gov/" },
+      { "title": "NASA", "url": "http://www.nasa.gov/" }
+    ]
+  },
+  {
+    "id": "apfqRWYg3izQwO",
+    "date": "2000-07-06",
+    "title": "A Jet from Galaxy M87",
+    "description": "What's causing a huge jet to emanate from the center of galaxy M87? Although the unusual jet was first noticed early in the twentieth century, the exact cause is still debated.  The above recently released picture taken by the Hubble Space Telescope shows clear details, however.The most popular hypothesis holds that the jet is created by energetic gas swirling around a massive black hole at the galaxy's center.  The result is a 5000 light-year long blowtorch where electrons are ejected outward at near light-speed, emitting eerily blue light during a magnetic spiral.  M87 is a giant elliptical galaxy residing only 50 million light-years away in the Virgo Cluster of Galaxies.  The faint dots of light surrounding M87's center are large ancient globular clusters of stars.",
+    "description_html": "What's causing a huge jet to emanate from the center of galaxy <a href='https://apod.nasa.gov/apod/ap950913.html'>M87</a>? Although the <a href='https://apod.nasa.gov/apod/http://heritage.stsci.edu/public/2000july6/ngc4486table.html'>unusual jet</a> was first noticed early in the <a href='https://apod.nasa.gov/apod/http://users.erols.com/mwhite28/20centry.htm'>twentieth century</a>, the exact cause is still debated. The <a href='https://apod.nasa.gov/apod/http://heritage.stsci.edu/public/2000july6/displayngc4486.html'>above recently released picture</a> taken by the <a href='https://apod.nasa.gov/apod/http://www.stsci.edu/hst/'>Hubble Space Telescope</a> shows clear details, however. The most <a href='https://apod.nasa.gov/apod/http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1999Natur.401..891J'>popular hypothesis</a> holds that the <a href='https://apod.nasa.gov/apod/ap000619.html'>jet</a> is created by energetic gas swirling around a massive <a href='https://apod.nasa.gov/apod/ap970405.html'>black hole</a> at the galaxy's center. The result is a 5000 <a href='https://apod.nasa.gov/apod/http://www.pa.msu.edu/sci_theatre/ask_st/012292.html'>light-year</a> long blowtorch where <a href='https://apod.nasa.gov/apod/http://www.aip.org/history/electron/'>electrons</a> are ejected outward at near light-speed, <a href='https://apod.nasa.gov/apod/http://astrosun.tn.cornell.edu/courses/astro201/synch_rad.htm'>emitting eerily blue light</a> during a magnetic spiral. <a href='https://apod.nasa.gov/apod/ap990216.html'>M87</a> is a giant <a href='https://apod.nasa.gov/apod/elliptical_galaxies.html'>elliptical galaxy</a> residing only 50 million light-years away in the <a href='https://apod.nasa.gov/apod/ap000220.html'>Virgo Cluster of Galaxies</a>. The faint dots of light surrounding <a href='https://apod.nasa.gov/apod/http://www.seds.org/messier/m/m087.html'>M87</a>'s center are large ancient <a href='https://apod.nasa.gov/apod/globular_clusters.html'>globular clusters</a> of stars.",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-06/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-06/standard.jpg",
+      "hd_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-06/hd.jpg"
+    },
+    "credits": [
+      { "title": "J. A. Biretta", "url": "mailto:biretta@stsci.edu" },
+      { "title": "et al.", "url": "http://heritage.stsci.edu/public/2000july6/ngc4486bios.html" },
+      {
+        "title": "Hubble Heritage Team",
+        "url": "http://heritage.stsci.edu/public/commonpages/hhp.html"
+      },
+      { "title": "STScI", "url": "http://www.stsci.edu/" },
+      { "title": "AURA", "url": "http://www.aura-astronomy.org/" },
+      { "title": "NASA", "url": "http://www.nasa.gov/" }
+    ]
+  },
+  {
+    "id": "ap6hSE6dET0vLH",
+    "date": "2000-07-07",
+    "title": "Sirius, Sun, Moon, and Southern Cross",
+    "description": "From left to right are the enclosures ofYepun (ye-poon; Sirius),Antu (an-too; Sun), Kueyen (qua-yen; Moon), and Melipal (me-li-pal; Southern Cross),pictured here asnight falls at Paranal Observatoryin northern Chile.These are the four 8.2 meter wide telescope units of theEuropean Southern Observatory'sVery Large Telescope (VLT).ESO astronomers and engineers plan tocombine the light ofthe individual units, achieving an equivalentapertureof 16.4 meters which will,for a while,constituethe biggest telescope onplanet Earth.Of course,the individual telescopes also function independently.Antu, Kueyen, and Melipal have already achieved first light withYepun expected to operate in 2001.The telescopenamescome from the Mapuchelanguage.They were unanimously chosen based onthe winning 'name-the-telescopes' essay by 17-year oldJorssy Albanez Castilla fromChuquicamata near the city of Calama.",
+    "description_html": "From left to right are the enclosures of Yepun (<i>ye-poon</i>; <a href='https://apod.nasa.gov/apod/ap000611.html'>Sirius</a>), Antu (<i>an-too</i>; <a href='https://apod.nasa.gov/apod/ap000621.html'>Sun</a>), Kueyen (<i>qua-yen</i>; <a href='https://apod.nasa.gov/apod/ap991222.html'>Moon</a>), and Melipal (<i>me-li-pal</i>; <a href='https://apod.nasa.gov/apod/ap000618.html'>Southern Cross</a>), pictured here as <a href='https://apod.nasa.gov/apod/http://www.eso.org/outreach/press-rel/pr-2000/ phot-15B-00.html'>night falls at Paranal Observatory</a> in northern Chile. These are the four 8.2 meter wide telescope units of the European Southern Observatory's <a href='https://apod.nasa.gov/apod/http://www.eso.org/outreach/press-rel/pr-2000/ phot-15-00.html'>Very Large Telescope</a> (VLT). ESO astronomers and engineers plan to <a href='https://apod.nasa.gov/apod/http://www.eso.org/projects/vlt/'>combine the light</a> of the individual units, achieving an equivalent <a href='https://apod.nasa.gov/apod/http://www.seds.org/billa/bigeyes.html'>aperture</a> of 16.4 meters which will, <a href='https://apod.nasa.gov/apod/http://nastol.astro.lu.se/~torben/50m/50m.html'>for a while</a>, constitue <a href='https://apod.nasa.gov/apod/http://www.sciam.com/specialissues/1299engineering/ 1299musserbox2.html'>the biggest</a> telescope on <a href='https://apod.nasa.gov/apod/http://www.sciam.com/specialissues/1299engineering/ 1299musser.html'>planet Earth</a>. Of course, the individual telescopes also function independently. Antu, Kueyen, and Melipal have already achieved first light with Yepun expected to operate in 2001. The telescope <a href='https://apod.nasa.gov/apod/http://www.eso.org/outreach/info-events/ut1fl/names.html'>names</a> come from the <a href='https://apod.nasa.gov/apod/http://www.uchile.cl/cultura/mapa/ artesamapuche/ingles/index.htm'>Mapuche</a> <a href='https://apod.nasa.gov/apod/http://www-linguistics.stanford.edu/~arnold/mapuche/ mapudungun.html'>language</a>. They were unanimously chosen based on the winning 'name-the-telescopes' essay by 17-year old Jorssy Albanez Castilla from Chuquicamata near the city of Calama.",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-07/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-07/standard.jpg",
+      "hd_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-07/hd.jpg"
+    },
+    "credits": [{ "title": "European Southern Observatory", "url": "http://www.eso.org/" }]
+  },
+  {
+    "id": "ap0bLnExM5Vjf8",
+    "date": "2000-07-08",
+    "title": "The United States At Night",
+    "description": "This is what the United States of America looks like at night!Can you find your favorite US city in this image?Surprisingly,city lights make this task quite possible.Theabove picture is actually a composite of over 200images made by satellites orbiting planet Earth.Scans were made by the USAF Defense Meteorological Satellite Program (DMSP) Operational Linescan System.The DMSP satellites continue to help in theunderstanding and prediction of weather phenomena as well as provide keyinformation about population patterns, city light levels, and even forestfires.",
+    "description_html": "This is what the <a href='https://apod.nasa.gov/apod/http://fermi.jhuapl.edu/states/states.html '>United States of America</a> looks like at night! Can you find your <a href='https://apod.nasa.gov/apod/http://www.ci.greenbelt.md.us/About_Greenbelt/ about_greenbelt.htm'>favorite US city</a> in this image? Surprisingly, <a href='https://apod.nasa.gov/apod/http://julius.ngdc.noaa.gov:8080/production/html/ BIOMASS/night.html'>city lights</a> make this task quite possible. The <a href='https://apod.nasa.gov/apod/http://www.ngdc.noaa.gov/ngdc/news/night_light.html'>above picture</a> is actually a composite of over 200 images made by satellites orbiting planet Earth. Scans were made by the <a href='https://apod.nasa.gov/apod/http://www.af.mil/'>USAF</a> Defense Meteorological Satellite Program (DMSP) Operational Linescan System. The <a href='https://apod.nasa.gov/apod/http://heasarc.gsfc.nasa.gov/docs/heasarc/missions/dmsp.html'>DMSP satellites</a> continue to help in the understanding and prediction of <a href='https://apod.nasa.gov/apod/ap970819.html'>weather phenomena</a> as well as provide key information about <a href='https://apod.nasa.gov/apod/http://www.census.gov/'>population patterns</a>, <a href='https://apod.nasa.gov/apod/http://www.darksky.org/~ida/index.html'>city light levels</a>, and even <a href='https://apod.nasa.gov/apod/http://www.ngdc.noaa.gov/dmsp/fires/globalfires.html'>forest fires</a>.",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-08/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-08/standard.jpg",
+      "hd_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-08/hd.jpg"
+    },
+    "credits": [
+      { "title": "NOAA", "url": "http://www.noaa.gov/" },
+      { "title": "NGDC", "url": "http://web.ngdc.noaa.gov/ngdc.html" },
+      { "title": "DMSP", "url": "http://www.ngdc.noaa.gov/dmsp/dmsp.html" }
+    ]
+  },
+  {
+    "id": "apCIwYcVEm8mfW",
+    "date": "2000-07-09",
+    "title": "The Hubble Deep Field",
+    "description": "Galaxies like colorful pieces of candy fill theHubble Deep Field - one of humanity's most distant optical views of the Universe.The dimmest, some as faint as 30th magnitude(about four billion times fainter than stars visible to the unaided eye),are very distant galaxies and represent whatthe Universe looked like in theextreme past, perhaps less than one billion years after theBig Bang.To make the Deep Field image, astronomersselected an uncluttered area of the sky in theconstellation Ursa Major (the Big Bear) andpointed the Hubble Space Telescopeat a single spot for 10 days accumulating and combiningmany separate exposures.  With each additional exposure, fainterobjects were revealed.The final result can be used to explore themysteries of galaxy evolution and the infantUniverse.",
+    "description_html": "<a href='https://apod.nasa.gov/apod/http://www.limber.org/HDF.html'>Galaxies</a> like colorful pieces of candy fill the <a href='https://apod.nasa.gov/apod/http://www.stsci.edu/pubinfo/press-releases/96-01.txt'>Hubble Deep Field</a> - one of <a href='https://apod.nasa.gov/apod/http://oposite.stsci.edu/pubinfo/background-text/hdf.txt'>humanity's most distant</a> <a href='https://apod.nasa.gov/apod/http://www.stsci.edu/pubinfo/PR/96/01.html'>optical views of the Universe</a>. The dimmest, some as faint as 30th magnitude (about four billion times fainter than stars visible to the unaided eye), are <a href='https://apod.nasa.gov/apod/ap960628.html'>very distant galaxies</a> and represent what the <a href='https://apod.nasa.gov/apod/ap990905.html'>Universe</a> looked like in the extreme past, perhaps less than one billion years after the <a href='https://apod.nasa.gov/apod/http://csep1.phy.ornl.gov/guidry/violence/cosmology.html'>Big Bang</a>. <a href='https://apod.nasa.gov/apod/http://www.stsci.edu/ftp/observer/hdf/references/ferguson_aas.html'>To make the Deep Field image</a>, astronomers <a href='https://apod.nasa.gov/apod/http://www.stsci.edu/ftp/observer/hdf/project/field.html'>selected an uncluttered area of the sky</a> in the <a href='https://apod.nasa.gov/apod/ http://www.seds.org/Maps/Stars_en/Fig/ursamajor.html'>constellation Ursa Major</a> (the Big Bear) and pointed the <a href='https://apod.nasa.gov/apod/ap950810.html'>Hubble Space Telescope</a> at a single spot for 10 days accumulating and combining many separate exposures. With each <a href='https://apod.nasa.gov/apod/ap981214.html'>additional exposure</a>, fainter objects were revealed. <a href='https://apod.nasa.gov/apod/http://www.stsci.edu/pubinfo/PR/97/hdf-key-findings.html'>The final result can be used to explore</a> the <a href='https://apod.nasa.gov/apod/http://www.journals.uchicago.edu/ApJ/journal/ issues/ApJL/v473n1/5169/5169.html'>mysteries of galaxy evolution</a> and the infant <a href='https://apod.nasa.gov/apod/ap980302.html'>Universe</a>.",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-09/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-09/standard.jpg",
+      "hd_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-09/hd.jpg"
+    },
+    "credits": [
+      { "title": "HDF", "url": "http://www.stsci.edu/ftp/observer/hdf/hdf.html" },
+      { "title": "STScI", "url": "http://www.stsci.edu/public.html" },
+      { "title": "NASA", "url": "http://www.nasa.gov/" }
+    ]
+  },
+  {
+    "id": "apiu7ufEJpOyDh",
+    "date": "2000-07-10",
+    "title": "Comet LINEAR Extends",
+    "description": "Comet LINEAR's tail appears to be extending.  Many sky watchers are closely following Comet C/1999 S4 LINEAR and wondering if it will develop an impressive tail or become visible to the naked eye later this month.  So far, the unpredictable comet is moving oddly indicating that exploding caverns of heated gas are causing the comet to shift slightly in its orbit around the Sun.  This volatility contributes to Comet LINEAR newly visible two-degree tail, discernable in the above photographic negative taken Friday from California.  Current brightness estimates indicate that Comet LINEAR will just barely become visible without binoculars in northern skies in the days surrounding July 23during the early evening hours.",
+    "description_html": "Comet LINEAR's tail appears to be extending. Many sky watchers are closely following Comet <a href='https://apod.nasa.gov/apod/ap000704.html'>C/1999 S4 LINEAR</a> and wondering if it will develop an <a href='https://apod.nasa.gov/apod/ap980717.html'>impressive tail</a> or become visible to the naked eye later this month. So far, the unpredictable comet is moving oddly indicating that <a href='https://apod.nasa.gov/apod/ap970213.html'>exploding caverns</a> of heated gas are causing the <a href='https://apod.nasa.gov/apod/http://www.cometlinear.com/'>comet</a> to shift slightly in its <a href='https://apod.nasa.gov/apod/http://encke.jpl.nasa.gov/whats_visible.html#1999S4'>orbit</a> around the <a href='https://apod.nasa.gov/apod/http://www.seds.org/nineplanets/nineplanets/sol.html'>Sun</a>. This volatility contributes to <a href='https://apod.nasa.gov/apod/http://www.skypub.com/sights/comets/0007linearS4.html'>Comet LINEAR</a> newly visible two-degree tail, discernable in the <a href='https://apod.nasa.gov/apod/http://www.comet-track.com/s4/s4.html'>above photograph</a>ic negative taken Friday from <a href='https://apod.nasa.gov/apod/http://www.state.ca.us/'>California</a>. Current <a href='https://apod.nasa.gov/apod/http://cfa-www.harvard.edu/iau/Ephemerides/Comets/1999S4_1.html'>brightness estimates</a> indicate that <a href='https://apod.nasa.gov/apod/http://science.nasa.gov/headlines/y2000/ast05jul_1m.htm'>Comet LINEAR</a> will just barely become visible without binoculars in northern skies in the days surrounding July 23 during the early evening hours.",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-10/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-10/standard.jpg",
+      "hd_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-10/hd.jpg"
+    },
+    "credits": [{ "title": "Bob Yen", "url": "mailto:byen00@earthlink.net" }]
+  },
+  {
+    "id": "apNAO4VnymEPVt",
+    "date": "2000-07-11",
+    "title": "The Crab Nebula in Blue and White",
+    "description": "The Crab Nebula is a complex shell of expanding gas.  The Crab Nebula formed from a star that was seen to explode in a supernova about 1000 years ago.  This two color composite image taken with the WIYN 3.5-meter telescope shows in great detail filamentary structure of the glowing hydrogen gas.  Also known as M1, the center is home to a dense neutron star, a star as massive as our Sun but only the size of a city.  The neutron star is a pulsar that spins thirty times a second and spits out energy that powers the nebula.  The nebula is named from its likeness to a crab in an early drawing.  The Crab Nebula still presents mysteries today as the total mass of the nebula and pulsar appears much less than the mass of the original pre-supernova star!",
+    "description_html": "The Crab Nebula is a complex shell of expanding gas. The <a href='https://apod.nasa.gov/apod/ap991122.html'>Crab Nebula</a> formed from a star that was seen to explode in a <a href='https://apod.nasa.gov/apod/http://imagine.gsfc.nasa.gov/docs/science/know_l1/supernovae.html'>supernova</a> about 1000 years ago. <a href='https://apod.nasa.gov/apod/http://www.noao.edu/image_gallery/html/im0466.html'>This two color composite image</a> taken with the <a href='https://apod.nasa.gov/apod/http://www.noao.edu/wiyn/wiynis.html'>WIYN 3.5-meter telescope</a> shows in great detail filamentary structure of the glowing <a href='https://apod.nasa.gov/apod/http://pearl1.lanl.gov/periodic/elements/1.html'>hydrogen</a> gas. Also known as <a href='https://apod.nasa.gov/apod/http://www.seds.org/messier/xtra/history/CMessier.html'>M</a>1, the center is home to a dense <a href='https://apod.nasa.gov/apod/http://www.astro.umd.edu/~miller/nstar.html'>neutron star</a>, a star as massive as our <a href='https://apod.nasa.gov/apod/http://www.seds.org/nineplanets/nineplanets/sol.html'>Sun</a> but only the size of a <a href='https://apod.nasa.gov/apod/ap970408.html'>city</a>. The <a href='https://apod.nasa.gov/apod/neutron_stars.html'>neutron star</a> is a <a href='https://apod.nasa.gov/apod/http://lheawww.gsfc.nasa.gov/users/padi/Pulse/crab.html'>pulsar</a> that spins thirty times a second and spits out energy that powers the nebula. The <a href='https://apod.nasa.gov/apod/http://nineplanets.org/twn/n1952x.html'>nebula</a> is named from its likeness to a <a href='https://apod.nasa.gov/apod/http://www.clever.net/kerry/creature/helmet.htm'>crab</a> in an early drawing. The <a href='https://apod.nasa.gov/apod/ap981122.html'>Crab Nebula</a> still <a href='https://apod.nasa.gov/apod/http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1995ApJ...454L.129F'>presents mysteries</a> today as the total mass of the nebula and <a href='https://apod.nasa.gov/apod/http://www.jb.man.ac.uk/~pulsar/Education/Sounds/sounds.html'>pulsar</a> appears much less than the mass of the original <a href='https://apod.nasa.gov/apod/ap970812.html'>pre-supernova star</a>!",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-11/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-11/standard.jpg",
+      "hd_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-11/hd.jpg"
+    },
+    "credits": [
+      { "title": "Jay Gallagher", "url": "http://www.astro.wisc.edu/~jsg/" },
+      { "title": "U. Wisc.", "url": "http://www.astro.wisc.edu/" },
+      { "title": "WIYN", "url": "http://www.noao.edu/wiyn/wiyn.html" },
+      { "title": "AURA", "url": "http://www.noao.edu/scope/copyright.html" },
+      { "title": "NOAO", "url": "http://www.noao.edu/" },
+      { "title": "NSF", "url": "http://www.nsf.gov/" }
+    ]
+  },
+  {
+    "id": "apkQvjCflWgdQ4",
+    "date": "2000-07-12",
+    "title": "A Giant Starspot on HD 12545",
+    "description": "What could cause a star to have such a large spot?  Our Sun itself frequently has sunspots, relatively cool dark magnetic depressions that move across its surface.  HD 12545, however, exhibits the largest starspots yet observed.  Doppler imaging - the use of slight changes in color caused by the rotation of the star - was used to create this false-color image.  The vertical bar on the right gives a temperature scale inkelvins.This giant, binary, RS CVn star, also known as XX Trianguli, is visible with binoculars in the constellation of Triangulum. The starspot is thought to be caused by large magnetic fields that inhibit hot matter from flowing to the surface.",
+    "description_html": "What could cause a star to have such a large spot? Our <a href='https://apod.nasa.gov/apod/sun.html'>Sun</a> itself frequently has <a href='https://apod.nasa.gov/apod/http://www.exploratorium.edu/sunspots/'>sunspots</a>, relatively cool dark <a href='https://apod.nasa.gov/apod/ap981005.html'>magnetic depressions</a> that move across its surface. <a href='https://apod.nasa.gov/apod/http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1996PASP..108...68H'>HD 12545</a>, however, exhibits the largest <a href='https://apod.nasa.gov/apod/http://www.sunspotcycle.com/'>starspots</a> yet observed. Doppler imaging - the use of slight changes in color caused by the <a href='https://apod.nasa.gov/apod/http://www.noao.edu/image_gallery/html/im0571.html'>rotation of the star</a> - was used to create <a href='https://apod.nasa.gov/apod/http://www.noao.edu/image_gallery/html/im0570.html'>this false-color image</a>. The vertical bar on the right gives a temperature scale in <a href='https://apod.nasa.gov/apod/http://www.wku.edu/~forsyrf/General%20Handouts/wku%20temp%20scale%20intro.html'>kelvins</a>. This giant, binary, <a href='https://apod.nasa.gov/apod/http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1993AJ....106.2502B'>RS CVn star</a>, also known as <a href='https://apod.nasa.gov/apod/http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1999A%26A...347..225S'>XX Trianguli</a>, is visible with binoculars in the <a href='https://apod.nasa.gov/apod/http://www.astro.wisc.edu/~dolan/constellations/extra/constellations.html'>constellation</a> of <a href='https://apod.nasa.gov/apod/http://www.astro.wisc.edu/~dolan/constellations/constellations/Triangulum.html'>Triangulum</a>. The <a href='https://apod.nasa.gov/apod/http://www.noao.edu/noao/noaonews/dec99/node2.html'>starspot</a> is thought to be caused by large <a href='https://apod.nasa.gov/apod/http://www-spof.gsfc.nasa.gov/Education/Imagnet.html'>magnetic fields</a> that inhibit hot matter from flowing to the surface.",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-12/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-12/standard.jpg",
+      "hd_url": null
+    },
+    "credits": [
+      { "title": "K. Strassmeier", "url": "http://www.astro.univie.ac.at/~kgs/members/kgs.html" },
+      { "title": "U. Wien", "url": "http://www.astro.univie.ac.at/" },
+      { "title": "Coude Feed Telescope", "url": "http://www.noao.edu/dir/coude/description.html" },
+      { "title": "AURA", "url": "http://www.noao.edu/scope/copyright.html" },
+      { "title": "NOAO", "url": "http://www.noao.edu/" },
+      { "title": "NSF", "url": "http://www.nsf.gov/" }
+    ]
+  },
+  {
+    "id": "apyYztPG8cISan",
+    "date": "2000-07-13",
+    "title": "LP 944-20: A Failed Star Flares",
+    "description": "The tiny spot circled on the right actually represents a bigastronomical discovery -- the first detectedflare from a failed star.Failed stars, termedbrown dwarfs in astronomers'parlance,are too low in mass to ignite nuclear hydrogen burning in their cores,yet still shine feebly as the energy fromtheir gravitational collapse is converted to heat and light.In fact, thedim brown dwarf cataloged as LP944-20 isestimated to have only6 percent the mass of the Sun (60 times the mass of Jupiter) andone-tenth the Sun's diameter.A mere 16 light-years distant in the southern constellation Fornaxit is well studied,but this failed star recentlystartled astronomersby producing aflare visible atx-ray energies.The aboveChandra X-ray Observatoryimages of the LP944-20 star field wererecorded in December 1999.Showing nothing (left) for the first  nine hours, the brown dwarf generated a significant x-ray flare during thefinal hours of the observation.How did a failed star produced such ahigh-energy flare?Magnetic fields twisted and broken by turbulent motions near the surfaceof the brown dwarf may be the culprit.Difficult to detectbecause they are otherwise faint, brown dwarf starsare believed to be common throughout the galaxy.",
+    "description_html": "The tiny spot circled on the right actually represents a big <a href='https://apod.nasa.gov/apod/http://chandra.harvard.edu/press/00_releases/ press_071100.html'>astronomical discovery</a> -- the first detected flare from a failed star. Failed stars, termed <a href='https://apod.nasa.gov/apod/http://chandra.harvard.edu/xray_sources/ browndwarf_fg.html'>brown dwarfs</a> in astronomers' <a href='https://apod.nasa.gov/apod/http://oposite.stsci.edu/pubinfo/background-text/ brdwarfs.txt'>parlance</a>, are too low in mass to ignite nuclear hydrogen burning in their cores, yet still shine feebly as the energy from their gravitational collapse is converted to heat and light. In fact, the <a href='https://apod.nasa.gov/apod/http://www.amsci.org/amsci/articles/97articles/ martin.html'>dim brown dwarf</a> cataloged as LP944-20 is estimated to have only 6 percent the mass of the Sun (60 times the mass of Jupiter) and one-tenth the Sun's diameter. A mere 16 light-years distant in the southern constellation Fornax it is <a href='https://apod.nasa.gov/apod/http://www.eso.org/outreach/press-rel/pr-1997/ pr-07-97.html'>well studied</a>, but this failed star recently <a href='https://apod.nasa.gov/apod/http://xxx.lanl.gov/abs/astro-ph/0005559'>startled astronomers</a> by producing a flare visible at <a href='https://apod.nasa.gov/apod/http://imagine.gsfc.nasa.gov/docs/science/know_l1/ history1_xray.html'>x-ray energies</a>. The above <a href='https://apod.nasa.gov/apod/http://chandra.harvard.edu/'>Chandra X-ray Observatory</a> images of the <a href='https://apod.nasa.gov/apod/http://chandra.harvard.edu/photo/cycle1/1054/ lp94420_hand.html'>LP944-20</a> star field were recorded in December 1999. Showing nothing (left) for the first nine hours, the brown dwarf generated a significant x-ray flare during the final hours of the observation. How did a failed star produced such a <a href='https://apod.nasa.gov/apod/ap000608.html'>high-energy flare</a>? Magnetic fields twisted and broken by turbulent motions near the surface of the brown dwarf may be the culprit. <a href='https://apod.nasa.gov/apod/ap990324.html'>Difficult</a> to detect because they are otherwise faint, brown dwarf stars are believed to be <a href='https://apod.nasa.gov/apod/http://www.amsci.org/amsci/articles/97articles/ mhowmany.html'>common</a> throughout the galaxy.",
+    "media": {
+      "type": "IMAGE",
+      "preview_image_url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-13/preview.jpg",
+      "url": "https://raw.githubusercontent.com/openapod/archive_2000/main/2000-07-13/standard.jpg",
+      "hd_url": null
+    },
+    "credits": [
+      { "title": "Caltech", "url": "http://www.caltech.edu/" },
+      { "title": "NASA", "url": "http://www.nasa.gov/" }
     ]
   }
 ]
